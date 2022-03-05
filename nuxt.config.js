@@ -5,6 +5,16 @@ export default {
     base: "/swan-group.github.io"
   },
 
+  env: {
+	  siteTitle: "The Swan Group",
+	  navItems: {
+		  Home: "",
+		  Research: "research",
+		  Projects: "projects",
+		  "About Jim": "about-jim",
+	  },
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'The Swan Group',

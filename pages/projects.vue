@@ -1,9 +1,9 @@
 <template>
-  <h1>Swan Group Site</h1>
+  <h1>Projects</h1>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'Projects',
 }
 </script>
