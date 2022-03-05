@@ -1,9 +1,9 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  router: {
-    base: "/swan-group.github.io"
-  },
+  //router: {
+  //  base: "/swan-group.github.io"
+  //},
 
   env: {
 	  siteTitle: "The Swan Group",
