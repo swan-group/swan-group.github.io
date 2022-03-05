@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{236:function(e,n,t){"use strict";t.r(n);var l={name:"IndexPage",layout:"home"},o=t(20),component=Object(o.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("h1",[e._v("Swan Group Site")])}),[],!1,null,null,null);n.default=component.exports}}]);
