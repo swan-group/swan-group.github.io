@@ -6,13 +6,11 @@
         <img src="/imgs/swan-logo.png" style="max-height: 125px;">
       </div>
       <div class="column content">
-        <vue-markdown>
 The Swan Group
 
 Department of Chemical Engineering
 
 Massachusetts Institute of Technology
-        </vue-markdown>
       </div>
     </div>
 
@@ -21,11 +19,7 @@ Massachusetts Institute of Technology
 </template>
 
 <script>
-import VueMarkdown from "vue-markdown";
 export default {
-  components: {
-    VueMarkdown,
-  },
 };
 </script>
 
