@@ -11,16 +11,20 @@
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",
+    "bulma": "^0.9.3",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
+    "sass-loader": "^10.1.1",
     "slugify": "^1.6.5",
     "vue": "^2.6.14",
     "vue-markdown": "^2.2.4",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
+    "vue-typer": "^1.2.0",
     "webpack": "^4.46.0"
   },
   "devDependencies": {
-    "push-dir": "^0.4.1"
+    "push-dir": "^0.4.1",
+    "sass": "^1.49.9"
   }
 }
