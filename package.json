@@ -10,6 +10,7 @@
     "deploy": "push-dir --dir=dist --branch=master --cleanup"
   },
   "dependencies": {
+    "babel-runtime": "^6.26.0",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
     "slugify": "^1.6.5",

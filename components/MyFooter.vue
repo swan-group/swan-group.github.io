@@ -12,10 +12,6 @@ The Swan Group
 Department of Chemical Engineering
 
 Massachusetts Institute of Technology
-
-4.101 Science and Engineering Complex
-150 Western Ave
-Boston, MA 02134
         </vue-markdown>
       </div>
     </div>
